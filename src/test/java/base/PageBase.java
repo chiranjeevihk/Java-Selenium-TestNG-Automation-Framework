@@ -21,7 +21,6 @@ public abstract class PageBase {
 		PageFactory.initElements(driver, this);
 	}
 
-	
 	/**
 	 * Wait
 	 */
